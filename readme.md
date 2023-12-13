@@ -17,7 +17,7 @@
 
 ## Prints
 ### Page Home
-<img src="https://github.com/alexandre-moreira/app-smart-games/blob/main/prints/home.png" alt="Home" height="300" width="300">
+<img src="https://github.com/alexandre-moreira/app-smart-games/blob/main/prints/home.png" alt="Home" height="300" width="400">
 
 ### Page Details
-<img src="https://github.com/alexandre-moreira/app-smart-games/blob/main/prints/details.png" alt="Home" height="300" width="300">
+<img src="https://github.com/alexandre-moreira/app-smart-games/blob/main/prints/details.png" alt="Home" height="300" width="400">
