@@ -1,4 +1,4 @@
-# Projeto Smart Game
+# Projeto Smart Games
 
 ## Back end
 ### Instalar dependencias
